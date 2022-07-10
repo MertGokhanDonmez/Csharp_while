@@ -1,0 +1,15 @@
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\bin\Debug\net6.0\kitleEndeksiHesaplama.exe
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\bin\Debug\net6.0\kitleEndeksiHesaplama.deps.json
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\bin\Debug\net6.0\kitleEndeksiHesaplama.runtimeconfig.json
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\bin\Debug\net6.0\kitleEndeksiHesaplama.dll
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\bin\Debug\net6.0\kitleEndeksiHesaplama.pdb
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.AssemblyInfo.cs
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.dll
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\refint\kitleEndeksiHesaplama.dll
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.pdb
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\kitleEndeksiHesaplama.genruntimeconfig.cache
+C:\Users\mertg\source\repos\kitleEndeksiHesaplama\kitleEndeksiHesaplama\obj\Debug\net6.0\ref\kitleEndeksiHesaplama.dll
